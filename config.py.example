@@ -1,0 +1,2 @@
+user='driftx'
+branches=['3.0', '3.11', '4.0', '4.1', 'trunk']
