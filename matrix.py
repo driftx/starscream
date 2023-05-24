@@ -8,7 +8,8 @@ basename = sys.argv[1]
 
 alias = {'pre-commit_tests': 'j8',
          'java11_pre-commit_tests': 'j11',
-         'java8_pre-commit_tests': 'j8'}
+         'java8_pre-commit_tests': 'j8',
+         'java17_pre-commit_tests': 'j17'}
 
 def mk_branches(name):
     for b in branches:
